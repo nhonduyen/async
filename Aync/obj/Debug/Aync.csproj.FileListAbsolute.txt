@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\Aync\Aync\bin\Debug\Aync.exe.config
+C:\Users\admin\Documents\Aync\Aync\bin\Debug\Aync.exe
+C:\Users\admin\Documents\Aync\Aync\bin\Debug\Aync.pdb
+C:\Users\admin\Documents\Aync\Aync\obj\Debug\Aync.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Aync\Aync\obj\Debug\Aync.Form1.resources
+C:\Users\admin\Documents\Aync\Aync\obj\Debug\Aync.Properties.Resources.resources
+C:\Users\admin\Documents\Aync\Aync\obj\Debug\Aync.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Aync\Aync\obj\Debug\Aync.exe
+C:\Users\admin\Documents\Aync\Aync\obj\Debug\Aync.pdb
